@@ -2,7 +2,6 @@
 
 ## Desenvolvimento de API RESTful
 
-> **Nota** Se executado inloco a maquina devera ter o Docker instalado e acesso à internet.
 > **Nota** Evite copiar projetos na internet ou gerá-los através de IA.
 
 ### Instruções de Desenvolvimento
